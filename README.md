@@ -21,7 +21,7 @@
 
 - Клонируйте репозиторий с проектом на свой компьютер
 ```bash
-git clone https://github.com/Luna-luns/Foodgram.git
+git clone https://github.com/Luna-luns/Recipe_helper.git
 ```
 
 - Установите и активируйте виртуальное окружение
